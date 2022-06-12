@@ -17,7 +17,7 @@ class QudsScreen extends StatelessWidget {
           children: [
             Container(
               width: MediaQuery.of(context).size.width,
-              height: MediaQuery.of(context).size.height*0.33,
+              height: MediaQuery.of(context).size.height*0.315,
               decoration: BoxDecoration(
                 image: DecorationImage(
                   image: AssetImage('Images/Capture.PNG',),

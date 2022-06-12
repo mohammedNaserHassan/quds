@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'QudsScreen.dart';
+import 'Screens/QudsScreen.dart';
 
 void main() {
   runApp(const MyApp());

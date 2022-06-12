@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'buildContainer.dart';
+import '../Widgets/buildContainer.dart';
 class QudsScreen extends StatelessWidget {
   const QudsScreen({Key? key}) : super(key: key);
 
